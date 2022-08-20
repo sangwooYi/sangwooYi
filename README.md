@@ -1,6 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning python, HTML, CSS
+🌱 I’m currently learning Java, JavaScript, Python.
+About Framework, i'm currently learning Spring framework and interest about Angular
 
+🔭 I'm currently working on SBTM 
 [![Sangwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwooYi&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
